@@ -1,4 +1,3 @@
-899
 # Apple II Plus RFI Rev. 2 Clone
 
 This board is a clone of the Apple II Plus RFI motherboard. It is designated as "Rev. 2"
