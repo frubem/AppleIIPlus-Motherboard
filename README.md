@@ -16,7 +16,7 @@ Removed memory select jumpers (D1, E1 and F1)
 
 Added A11 (74LS74), A12 (74LS02), A13 (555), A14 (74LS02) and B14 (74LS02)
 
-Added R28 (1K - close to character generator EEPROM in the left side), R31 (1K - E2) and R32 (1K - E2)
+Added R28 (1K - between A3 and A4), R31 (1K - E2) and R32 (1K - E2)
 
 A 5–50 pf trimmer capacitor (between A1 and B1 and above R2) has been added in series with the 14.318 MHz crystal.
 (This was done because the original crystal is difficult to source; the trimmer
@@ -30,7 +30,7 @@ The INH signal is inverted by A2 pins 9,10 and 8 before being connected to syste
 
 The 8T97s have been replaced with 74LS367s 
 
-The two 8T28s and have been replaced with one 74LS245
+The two 8T28s and have been replaced with one 74LS245 
 
 First "color kill" circuit has been added (Q6), triggered by TEXT MODE signal (F14 pin 4) 
 
