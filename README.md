@@ -1,8 +1,8 @@
 # Apple II Plus RFI Rev. 2 Clone
 
-This board is a clone of the Apple II Plus RFI motherboard. It is designated as "Rev. 2"
-to distinguish it from the original Apple II Plus RFI motherboard (which we refer to as "Rev. 0")
-and the board from ReActiveMicro (which we refer to as "Rev. 1"). It was created
+This board is a clone of the Apple II Plus RFI motherboard. It is designated as "Plus RFI Rev. 2"
+to distinguish it from the original Apple II Plus RFI motherboard (which we refer to as "Plus Rev. 0")
+and the board from ReActiveMicro (which we refer to as "Plus RFI Rev. 1"). It was created
 based on Mike Willegal’s Apple II Rev. 0 replica board.
 While it is not 100% identical to the Apple or ReActiveMicro boards, it functions
 exactly like an Apple II Plus RFI. The design has been verified against the
