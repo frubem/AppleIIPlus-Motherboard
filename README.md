@@ -26,7 +26,7 @@ System ROMs (D0, D8, E0, E8, F0 and F8) have been replaced with 28C16 EEPROMs
 
 Character ROM (A5) has been replaced with 28C16 EEPROM
 
-The INH signal is inverted by A2 pins 9,10 and 8 before being connected to system EEPROMs pin 18
+The INH signal is inverted by A2 pins 9,10 and 8 before being connected to system EEPROMs pin 18 (ENABLE/) 
 
 The 8T97s have been replaced with 74LS367 
 
