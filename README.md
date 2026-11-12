@@ -46,7 +46,7 @@ Power on reset circuit added (A13, part of A12, part of C11 and Q5)
 
 The signal SYNC connected to slot 7 pin 19
 
-The signal COLOR_REF connected to slot 7 pin 35
+The signal COLOR REF connected to slot 7 pin 35
 
 Test Connector added between B2 and C2
 
