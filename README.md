@@ -40,11 +40,11 @@ Video synchronization circuit updated (A14, B14 and part of C11)
 
 Added colors orange and blue in high resolution (A11 and part of A12)
 
-Power on reset circuit added (A13, part of A12, part of C11 & Q5)
+Power on reset circuit added (A13, part of A12, part of C11 and Q5)
 
-The signal sync connected to slot 7 pin 19
+The signal SYNC connected to slot 7 pin 19
 
-The signal color ref connected to slot 7 pin 35
+The signal COLOR_REF connected to slot 7 pin 35
 
 Test Connector added between B2 and C2
 
