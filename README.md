@@ -14,6 +14,8 @@ Removed E2 (74LS139)
 
 Removed memory select jumpers (D1, E1 and F1)
 
+Added Q5 (2N3904), Q6 (2N3904) and Q7 (2N3904)
+
 Added A11 (74LS74), A12 (74LS02), A13 (555), A14 (74LS02) and B14 (74LS02)
 
 Added R28 (1K - between A3 and A4), R31 (1K - E2) and R32 (1K - E2)
