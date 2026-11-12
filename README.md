@@ -20,7 +20,7 @@ Added R28 (1K - between A3 and A4), R31 (1K - E2) and R32 (1K - E2)
 
 Added Q5 (2N3904), Q6 (2N3904) and Q7 (2N3904)
 
-Added a 5–50 pf trimmer capacitor (between A1 and B1 and above R2) in series with the 14.318 MHz crystal.
+Added a 5–50 pf trimmer (between A1 and B1 and above R2) in series with the 14.318 MHz crystal.
 (This was done because the original crystal is difficult to source; the trimmer
 is used to fine-tune the color frequency.)
 
