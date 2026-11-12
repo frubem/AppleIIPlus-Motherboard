@@ -32,9 +32,9 @@ The 8T97s have been replaced with 74LS367s
 
 The two 8T28s and have been replaced with one 74LS245
 
-First "color kill" circuit has been added (Q6), triggered by TEXT MODE signal 
+First "color kill" circuit has been added (Q6), triggered by TEXT MODE signal (F14 pin 4) 
 
-Second "color kill" circuit has been added (Q7), triggered by the AN2 signal (this does not exist in Apple II Plus RFI original board)
+Second "color kill" circuit has been added (Q7), triggered by the AN2 signal (F14 pin 11 - this does not exist in Apple II Plus RFI original board)
 
 Video synchronization circuit updated (A14, B14 and part of C11)
 
