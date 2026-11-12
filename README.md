@@ -5,7 +5,7 @@ to distinguish it from the original Apple II Plus RFI motherboard (which we refe
 and the board from ReActiveMicro (which we refer to as "Rev. 1"). It was created
 based on Mike Willegal’s Apple II Rev. 0 replica board.
 While it is not 100% identical to the Apple or ReActiveMicro boards, it functions
-exactly like an Apple II Plus RFI. The design has been verified against the
+exactly like an original Apple II Plus RFI. The design has been verified against the
 original schematics but has not been physically tested. USE AT YOUR OWN RISK.
 
 ## Changes done to Mike Willegal board
